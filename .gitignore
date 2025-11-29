@@ -1,18 +1,2 @@
-__pycache__/
-*.py[cod]
-
-.idea/
-venv/
-.env
-
-# Файлы дистрибутивов и артефакты упаковки
-dist/
-*.egg-info/
-
-# Файлы покрытия, кэши и прочие ненужные файлы
-.coverage
-*.py,cover
-.cache/
-
-# Файлы *.py,cover не несут никакого смысла
-*.py,cover
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
